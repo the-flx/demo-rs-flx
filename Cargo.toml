@@ -12,4 +12,4 @@ authors = [
 license = "MIT"
 
 [dependencies]
-rs-flx = "0.1.0"
+rs-flx = "0.1.3"

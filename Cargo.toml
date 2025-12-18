@@ -2,5 +2,14 @@
 name = "demo-rs-flx"
 version = "0.1.0"
 edition = "2021"
+description = "Demo to use rs-flx"
+repository = "https://github.com/the-flx/flx-rs"
+homepage = "https://github.com/the-flx/rs-flx"
+readme = "README.md"
+authors = [
+    "Jen-Chieh Shen <jcs090218@gmail.com>",
+]
+license = "MIT"
 
 [dependencies]
+rs-flx = "0.1.0"
